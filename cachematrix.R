@@ -1,5 +1,5 @@
 ##Creating two functions with the purpose of caching a matrix then 
-##calling that matrix from a second function to calculate the inverse. 
+##calling that matrix from a second function to calculate the inverse . 
 
 
 ##The first function allows this function to be assigned to a variable (x in this case).   
